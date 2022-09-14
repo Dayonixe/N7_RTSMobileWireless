@@ -1,6 +1,8 @@
 # User manual
 
-<img src="https://img.shields.io/badge/language-python-blue?style=flat-square" alt="laguage-python" />
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/language-python-blue?style=flat-square" alt="laguage-python" />
+</a>
 
 ---
 
